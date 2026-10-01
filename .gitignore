@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB and Docker data
+chroma_db/
+docker-data/
+
+# IDE settings
+.vscode/
